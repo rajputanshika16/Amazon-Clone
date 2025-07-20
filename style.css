@@ -204,9 +204,7 @@ ul a{
     background-color: #0F1111;
     color: white;
     height: 80px;
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
+    
 }
 .pages{
     font-size: 0.7rem;
